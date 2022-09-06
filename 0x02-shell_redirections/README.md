@@ -1,1 +1,1 @@
-a script that duplicates the last line
+a script that counts the number of directories and sub-directories in the current directory
