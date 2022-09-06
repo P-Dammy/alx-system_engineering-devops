@@ -1,1 +1,1 @@
-a script that counts the number of directories and sub-directories in the current directory
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
